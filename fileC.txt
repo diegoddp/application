@@ -3,8 +3,13 @@ this is FileC
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Making another change
 This is for squash merge
+=======
+Let's make a change
+This if for Squash merge
+>>>>>>> FeatureA
 =======
 Let's make a change
 This if for Squash merge
